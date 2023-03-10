@@ -32,6 +32,7 @@ public class Sungil21110_Test07 {
 }
 ```
 #### 매개변수를 사용하여 for문 돌리기
+
 ```java
 	static void spira(int n){
 		for(int i=1;i<=n;i++) {
@@ -43,6 +44,7 @@ public class Sungil21110_Test07 {
 ```
       
  #### 스캐너로 값을 입력받고 do while문으로 0이하의 숫자를 걸러내기
+ 값을 입력받을 수 있게 
  ``` java
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
